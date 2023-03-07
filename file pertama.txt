@@ -5,7 +5,8 @@ Rincian Materi Kampus Merdeka Batch 4
 -PHP
 -Mysql
 -Laravel
-
+-Rest Api
+-softkill
 Menamahkan file kedalam github dengan adding (git add)
 selanjutnya menandai file yang disebut commit
 
