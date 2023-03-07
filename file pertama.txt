@@ -1,0 +1,11 @@
+Rincian Materi Kampus Merdeka Batch 4
+-HTML dan CSS
+-Javascript
+-Github
+-PHP
+-Mysql
+-Laravel
+
+Menamahkan file kedalam github dengan adding (git add)
+selanjutnya menandai file yang disebut commit
+
